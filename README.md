@@ -1,7 +1,5 @@
 # AI-Resume-Analyzer-Job-Matcher
 AI-powered resume analyzer and job matching application using Python, NLP, Scikit-learn and FastAPI.
-# AI Resume Analyzer & Job Matcher
-
 ## Overview
 An AI-powered application that analyzes resumes and compares candidate
 skills with job description requirements.
